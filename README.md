@@ -4,7 +4,7 @@ Este é um script Python simples para extrair dados do calendário litúrgico de
 
 ## Como Usar
 
-1. Certifique-se de ter Python 3.x e PostgreSQL instalados em sua máquina.
+1. Certifique-se de ter o Python 3.x e o PostgreSQL instalados em sua máquina.
 2. Clone este repositório.
 3. Instale as dependências executando `pip install -r requirements.txt`.
 4. Edite as informações do banco de dados e outras variáveis no arquivo `main.py`.
