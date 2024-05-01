@@ -12,7 +12,7 @@ Este é um script Python simples para extrair dados do calendário litúrgico de
 
 ## Funcionalidades
 
-- Conexão ao Banco de Dados: Estabelece conexão com o banco de dados principal e cria um novo banco de dados para os dados litúrgicos.
+- Conexão com o Banco de Dados: Estabelece conexão com o banco de dados principal e cria um novo banco de dados para os dados litúrgicos.
 - Criação da Tabela: Cria uma tabela no banco de dados para armazenar os dados litúrgicos.
 - Web Scraping: Extrai os dados litúrgicos de um site e os insere na tabela do banco de dados.
 
